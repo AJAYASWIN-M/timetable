@@ -127,7 +127,10 @@ Execute the program
 ```
 
 # OUPUT
-![GitHub Logo](timetable.png)
+![output](timetable.png)
+
+
+
 ![val](validator.png)
  
 # RESULT
