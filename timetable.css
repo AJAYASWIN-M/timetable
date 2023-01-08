@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+    
+}
+table, th, td {
+    border: 1px solid black ;
+}
+td{
+    text-align:center;
+    padding: 20px;
+ }
+ img{
+    width:1850px;
+    height: 200px;
+ }
