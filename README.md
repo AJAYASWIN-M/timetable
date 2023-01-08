@@ -127,8 +127,8 @@ Execute the program
 ```
 
 # OUPUT
-![GitHub Logo](timetble.png)
-![val](validato.png)
+![GitHub Logo](timetable.png)
+![val](validator.png)
  
 # RESULT
 
